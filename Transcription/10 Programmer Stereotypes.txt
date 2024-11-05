@@ -1,0 +1,411 @@
+1
+00:00:00,000 --> 00:00:01,320
+The programmer.
+
+2
+00:00:01,320 --> 00:00:05,600
+An offshoot of the Great 8 family closely related to chimpsing gorillas, distinguished by
+
+3
+00:00:05,600 --> 00:00:09,679
+its minimal bipedal movement and ability to stare at a computer screen for the majority
+
+4
+00:00:09,679 --> 00:00:10,679
+of its lifetime.
+
+5
+00:00:10,679 --> 00:00:14,160
+There's an estimated 30 million specimens alive in the world today.
+
+6
+00:00:14,160 --> 00:00:19,240
+Normal humans use stereotypes to help understand and generalize this unusual variant, which experts
+
+7
+00:00:19,240 --> 00:00:22,839
+estimate are about 99% accurate, about 12% of the time.
+
+8
+00:00:22,839 --> 00:00:26,640
+In today's video, we'll take a look at 10 different programmer stereotypes to find out
+
+9
+00:00:26,640 --> 00:00:28,080
+which one you fall into.
+
+10
+00:00:28,080 --> 00:00:29,600
+First up, we have the gear head.
+
+11
+00:00:29,600 --> 00:00:33,560
+This variant owns the bleeding edge version of everything, like the latest M1 Mac, a big
+
+12
+00:00:33,560 --> 00:00:37,799
+ass curved monitor, mechanical keyboard, Tesla in the garage, AI generated synthetic
+
+13
+00:00:37,799 --> 00:00:40,840
+meat in the fridge, and a smart lock on the house to keep it all safe.
+
+14
+00:00:40,840 --> 00:00:43,240
+When programming, he goes wherever the hype train takes him.
+
+15
+00:00:43,240 --> 00:00:48,760
+In 96, it was Java, in 06, it was JQuery, and 2016 it was GraphQL, and in 2026, he'll
+
+16
+00:00:48,760 --> 00:00:52,600
+be first in line at NURL-Link to get a chip that can help him right blazingly fast-code.
+
+17
+00:00:52,600 --> 00:00:56,040
+It doesn't matter what the tech does, if it's trendy, it belongs in the stack.
+
+18
+00:00:56,039 --> 00:00:59,879
+This stereotype may be true sometimes, but programming can actually push many people in
+
+19
+00:00:59,879 --> 00:01:01,039
+the opposite direction.
+
+20
+00:01:01,039 --> 00:01:05,739
+The guy who works in tech, but hates tech stereotype, knows exactly how unreliable and dangerous
+
+21
+00:01:05,739 --> 00:01:06,739
+code can be.
+
+22
+00:01:06,739 --> 00:01:10,439
+Like that the RAC-25 incident, where a little software bug accidentally killed some people
+
+23
+00:01:10,439 --> 00:01:12,920
+by giving them a massive overdose of radiation.
+
+24
+00:01:12,920 --> 00:01:16,480
+This guy would never buy a car that can be remotely summoned back to Elon when you stop
+
+25
+00:01:16,480 --> 00:01:17,480
+paying the bill.
+
+26
+00:01:17,480 --> 00:01:20,900
+Antihua definitely never put a smart lock on his house, because the NSA probably has
+
+27
+00:01:20,900 --> 00:01:24,840
+backed or accessed, or at the very least there's an undiscovered exploit in its code.
+
+28
+00:01:24,840 --> 00:01:28,240
+If you broke into his farmhouse, you'd find a single monitor Linux machine, a flip
+
+29
+00:01:28,240 --> 00:01:31,960
+phone, some gold bullion, and a shotgun barrel pointed in your face.
+
+30
+00:01:31,960 --> 00:01:35,200
+The most stereotypical programmer though, has to be the introvert.
+
+31
+00:01:35,200 --> 00:01:39,320
+He's a savant who still sleeps in a car bed, and his vision of the ideal lifestyle is what
+
+32
+00:01:39,320 --> 00:01:41,120
+the rest of society calls quarantine.
+
+33
+00:01:41,120 --> 00:01:44,659
+He's super good at math, and can actually program stuff without using Google and Stack
+
+34
+00:01:44,659 --> 00:01:47,760
+Overflow, but couldn't hold a conversation to save his life.
+
+35
+00:01:47,760 --> 00:01:51,359
+Extroverts like jobs use these nerds like Waz to get super rich.
+
+36
+00:01:51,359 --> 00:01:56,319
+The stereotype used to be 100% true back when programming was hard, like pre-1990s.
+
+37
+00:01:56,319 --> 00:01:59,920
+But as programming has become more mainstream, it's led to a new paradigm.
+
+38
+00:01:59,920 --> 00:02:00,920
+The programmer.
+
+39
+00:02:00,920 --> 00:02:05,120
+This guy got a computer science degree while mostly partying with his frat and college.
+
+40
+00:02:05,120 --> 00:02:08,840
+His name is usually Chad, and he has more mating opportunities than the introvert, but
+
+41
+00:02:08,840 --> 00:02:12,960
+it comes at a cost of reduced code quality, which he refuses to test, because test-driven
+
+42
+00:02:12,960 --> 00:02:14,560
+development is for losers.
+
+43
+00:02:14,560 --> 00:02:15,560
+Not real.
+
+44
+00:02:15,560 --> 00:02:18,840
+However, he has better communication skills than the introverts, which is annoying because
+
+45
+00:02:18,840 --> 00:02:20,560
+I wish this guy would stop talking to me.
+
+46
+00:02:20,560 --> 00:02:23,759
+Eventually, he evolves into your manager, where he can torment you with code reviews
+
+47
+00:02:23,759 --> 00:02:25,400
+and team building exercises.
+
+48
+00:02:25,400 --> 00:02:28,599
+Now so far in this video, I've been using a lot of masculine pronouns.
+
+49
+00:02:28,599 --> 00:02:32,120
+That's because 95% of my audience is male, which is actually pretty close to the real
+
+50
+00:02:32,120 --> 00:02:33,520
+world distribution today.
+
+51
+00:02:33,520 --> 00:02:36,879
+What you may not realize though, is that back in the day, women used to dominate the
+
+52
+00:02:36,879 --> 00:02:37,879
+programming space.
+
+53
+00:02:37,879 --> 00:02:41,920
+Kathleen Booth created the first assembly language, Grace Hopper created the first compiler,
+
+54
+00:02:41,920 --> 00:02:45,400
+and Margaret Hamilton led the team who wrote the code for the Apollo moonlander.
+
+55
+00:02:45,400 --> 00:02:49,199
+Code that was so flawless and perfectly executed that some people think it's proof we didn't
+
+56
+00:02:49,199 --> 00:02:50,199
+actually go to the moon.
+
+57
+00:02:50,199 --> 00:02:53,599
+That was the apex of code quality, since that time everything's gone downhill.
+
+58
+00:02:53,599 --> 00:02:57,079
+The next specimen we'll look at is the influencer or code-fluencer.
+
+59
+00:02:57,079 --> 00:03:01,199
+His natural habitat is not a code editor, but rather a social media platform most commonly
+
+60
+00:03:01,199 --> 00:03:02,199
+Twitter.
+
+61
+00:03:02,199 --> 00:03:05,799
+After figuring out how to print hello world in PHP, he immediately rose to the top of
+
+62
+00:03:05,799 --> 00:03:07,919
+the dominance hierarchy in his own mind.
+
+63
+00:03:07,919 --> 00:03:12,199
+Now he makes the world a better place by regurgitating code tips and hot takes all day long,
+
+64
+00:03:12,199 --> 00:03:15,359
+and he just landed a better paying job than you, because he mastered the art of virtue
+
+65
+00:03:15,359 --> 00:03:16,359
+signaling.
+
+66
+00:03:16,359 --> 00:03:17,639
+And that's what we call a good culture fit.
+
+67
+00:03:17,639 --> 00:03:20,079
+Another popular stereotype is the hacker.
+
+68
+00:03:20,080 --> 00:03:24,080
+This guy's able to open up a terminal, connect to some remote mainframe, and break all of
+
+69
+00:03:24,080 --> 00:03:28,400
+its security protocols one by one, with awesome fancy animations between each step.
+
+70
+00:03:28,400 --> 00:03:33,480
+This stereotype is what most people think programmers do, but is 100% manufactured by Hollywood.
+
+71
+00:03:33,480 --> 00:03:37,080
+Real hacking is extremely tedious and boring, and is done primarily by the people who have
+
+72
+00:03:37,080 --> 00:03:38,080
+all the guns.
+
+73
+00:03:38,080 --> 00:03:41,439
+Now a stereotype that is actually real is the 10x developer.
+
+74
+00:03:41,439 --> 00:03:45,960
+This guy is an extremely rare unicorn that can do the work of 10 other developers combined.
+
+75
+00:03:45,960 --> 00:03:49,360
+Some say they're a myth, but I've seen developers first hand who write code like
+
+76
+00:03:49,360 --> 00:03:52,400
+to Rampplace Basketball, or Casperov Place Chess.
+
+77
+00:03:52,400 --> 00:03:56,160
+There are people out there with a natural problem solving ability that just goes far beyond
+
+78
+00:03:56,160 --> 00:03:57,480
+the rest of the population.
+
+79
+00:03:57,480 --> 00:04:00,840
+You'll know a 10x developer when you see one, because you'll feel very incompetent and
+
+80
+00:04:00,840 --> 00:04:02,000
+also very jealous.
+
+81
+00:04:02,000 --> 00:04:06,200
+Now I think the ideal stereotype for most of us to fall into is the lazy programmer.
+
+82
+00:04:06,200 --> 00:04:08,760
+To the outside world, it doesn't look like this guy does much.
+
+83
+00:04:08,760 --> 00:04:12,040
+He sits at a computer all day hitting the keyboard, and if you glance at a screen, it
+
+84
+00:04:12,040 --> 00:04:14,560
+looks like he's just copying and pasting things from the internet.
+
+85
+00:04:14,560 --> 00:04:17,960
+What he's actually doing though is building a million dollar side hustle, so he can retire
+
+86
+00:04:17,960 --> 00:04:18,960
+in his 30s.
+
+87
+00:04:18,959 --> 00:04:23,159
+He also has a remote job with a 400k salary, but he eats ramen for dinner while sharing
+
+88
+00:04:23,159 --> 00:04:25,039
+a crappy apartment with four other dudes.
+
+89
+00:04:25,039 --> 00:04:29,799
+His wardrobe is 50% swag from tech conferences, and 50% things is mom-bottom.
+
+90
+00:04:29,799 --> 00:04:32,439
+He leverages code to work smarter and not harder.
+
+91
+00:04:32,439 --> 00:04:35,479
+Now on the other end of the spectrum, we have the old jaded guy.
+
+92
+00:04:35,479 --> 00:04:37,799
+He has long silver hair and a big white beard.
+
+93
+00:04:37,799 --> 00:04:42,240
+He only codes in C, not C++, and definitely not any of the hipster garbage that you're
+
+94
+00:04:42,240 --> 00:04:43,240
+using.
+
+95
+00:04:43,240 --> 00:04:46,079
+In fact, he probably wrote the compiler for the silly toy language that you were trying
+
+96
+00:04:46,079 --> 00:04:47,079
+to learn.
+
+97
+00:04:47,079 --> 00:04:50,919
+The knowledge transcends the normal apes idea of reality when he discovered through psychedelics
+
+98
+00:04:50,919 --> 00:04:54,680
+that were all just one entity that found a hack in the universe to experience itself in
+
+99
+00:04:54,680 --> 00:04:58,120
+parallel with primate bodies, and computers are the tool that will ultimately make us
+
+100
+00:04:58,120 --> 00:04:59,120
+one again.
+
+101
+00:04:59,120 --> 00:05:01,959
+And that concludes our presentation on programmer stereotypes.
+
+102
+00:05:01,959 --> 00:05:04,199
+Let me know which one you fall into in the comments below.
+
+103
+00:05:04,199 --> 00:05:06,599
+Thanks for watching, and I will see you in the next one.
